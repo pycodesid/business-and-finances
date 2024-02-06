@@ -1,6 +1,6 @@
 <a name="readme-top"></a>
 
-[contributors-url]
+[![MIT License][license-shield]]
 [![MIT License][license-shield]][license-url]
 
 
