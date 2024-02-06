@@ -8,6 +8,7 @@ The agreement timeline is shown below.
   <a href="https://github.com/pycodesid/business-and-finances/american-binomial-options">
     <img src="images/picture1.jpg" alt="Logo">
   </a>
+</div>
 
 The formula for calculation the option price is based on several parameters. Here they are.
 Budgeted Capex Cost = Base Price * (1 + Interest) * FX Adjustment * Incentives * Nameplate Capacity
