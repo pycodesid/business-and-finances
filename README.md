@@ -6,4 +6,4 @@ Email     : pycodes.id@gmail.com
 IG        : https://www.instagram.com/pycodes.id/
 
 
-## American Binomial Option of Project Aquisition
+### 1. American Binomial Option of Project Aquisition
