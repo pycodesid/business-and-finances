@@ -1,10 +1,3 @@
-<a name="readme-top"></a>
-
-[![MIT License][license-shield]]
-[![MIT License][license-shield]][license-url]
-
-
-
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
