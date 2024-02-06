@@ -6,4 +6,5 @@ Email     : pycodes.id@gmail.com
 IG        : https://www.instagram.com/pycodes.id/
 
 
-### 1. American Binomial Option of Project Aquisition
+### 1. American Binomial Option for Infrastructure Project Aquisition
+In this case, two companies make an agreement to purchase project shares based on the American Binomial Option principle. The expiration date of the purchase agreement under the option price ends 5 years after the project first becomes operational.
