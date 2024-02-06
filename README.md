@@ -1,5 +1,1 @@
-<details>
-  <ol>
-    <summary>Table of Contents</summary>
-  </ol>
-</details>
+<a name="readme-top"></a>
