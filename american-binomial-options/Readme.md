@@ -11,6 +11,8 @@ The agreement timeline is shown below.
 </div>
 
 
+
+
 The formula for calculation the option price is based on several parameters. Here they are.
 
 Budgeted Capex Cost = Base Price * (1 + Interest) * FX Adjustment * Incentives * Nameplate Capacity
