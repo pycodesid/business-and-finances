@@ -1,5 +1,5 @@
-Author: pycodes.id
-IG    : [Instagram](https://www.instagram.com/pycodes.id/)
+#### Author  : pycodes.id
+#### IG      : [Instagram](https://www.instagram.com/pycodes.id/)
 
 ## Project Overview
 * abc
