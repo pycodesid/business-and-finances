@@ -1,5 +1,5 @@
 ## Project Overview
-* abc
+* 
 * def
 
 ## Code and Resource
