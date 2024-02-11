@@ -22,10 +22,12 @@ asdasdasda
 * asdsad
 
 ## EDA
-asdasdsa
-* asdasd
-* asdasd
-* 
+Each dataset consists of the following features:
+* Payer : Insurance company name
+* Emergency: Insurance company claim payment amount for Emergency
+* Health Checkup: Insurance company claim payment amount for Health Checkup
+* Inpatient: Insurance company claim payment amount for Inpatient
+* Outpatient: Insurance company claim payment amount for Outpatient
 
 ## Build Model
 asdasdasdsad
