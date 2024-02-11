@@ -34,7 +34,7 @@ asdasdasdsad
 
 <div align="center">
   <a href="https://github.com/pycodesid/business-and-finances/clustering_insurance_company">
-    <img src="images/clustermulti.png" alt="Logo">
+    <img src="images/clustermulti2.png" alt="Logo">
   </a>
 </div>'
 
