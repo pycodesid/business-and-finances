@@ -31,7 +31,19 @@ asdasdsa
 asdasdasdsad
 * adads
 * asdasd
-* 
+
+<div align="center">
+  <a href="https://github.com/pycodesid/business-and-finances/clustering_insurance_company">
+    <img src="images/clustermulti.png" alt="Logo">
+  </a>
+</div>'
+
+<div align="center">
+  <a href="https://github.com/pycodesid/business-and-finances/clustering_insurance_company">
+    <img src="images/barplotmulti.png" alt="Logo">
+  </a>
+</div>'
+
 
 ## Model Performance and Evaluation
 model performance
