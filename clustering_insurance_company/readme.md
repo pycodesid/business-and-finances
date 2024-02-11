@@ -45,10 +45,24 @@ asdasdasdsad
 </div>'
 
 
+<div align="center">
+  <a href="https://github.com/pycodesid/business-and-finances/clustering_insurance_company">
+    <img src="images/clusterts3.png" alt="Logo">
+  </a>
+</div>'
+
+
 ## Model Performance and Evaluation
 model performance
 * sdasd
 * asdsad
+
+<div align="center">
+  <a href="https://github.com/pycodesid/business-and-finances/clustering_insurance_company">
+    <img src="images/sil.png" alt="Logo">
+  </a>
+</div>'
+
 
 Colons can be used to align columns.
 
